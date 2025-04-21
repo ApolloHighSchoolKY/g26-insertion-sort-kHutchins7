@@ -21,8 +21,9 @@ public class AInsertionSort
                 {
                     temp2 = myNumbers[j];
                 }
-                System.out.println(Arrays.toString(myNumbers));
+                
             }
+            System.out.println(Arrays.toString(myNumbers));
         }
 
     }
